@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(18, 247, 247);
+   
+}#id
+img{
+   
+   
+    bottom: rgb(162, 255, 0);
+    bottom: 22px;
+    
+
+   
+   
+}
+p{
+    float: both;
+    clear: both;
+    display: block;
+    border: solid 1px white ; width: 40%;
+    clear: both;
+    display:block;
+    
+    
+}
+img{
+    display: initial;
+}
+button{
+    background-color: rgb(238, 104, 104);
+    font-size: 2rem;
+    font-family: Roboto;
+    text-align: left;
+    display: unset;
+    
+}
+

@@ -1,0 +1,15 @@
+.container {
+    
+    background-color: aqua;
+    width: 70vw;
+    height: 200px;
+    margin: auto;
+    overflow:auto;
+}
+#g {
+    color: rgb(83, 83, 237);
+   
+}
+*{
+    
+}
